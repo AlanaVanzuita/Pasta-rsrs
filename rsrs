@@ -1,16 +1,16 @@
-endereco
-telefone
-salario
-cpf
-preco
-temperatura
-casado
-nascimento
-vacinado
-preco_gasolina
-litros_gasolina
-preco_pao
-total_compras
-idade
-data_contrato
-nivel_escolaridade
+string endereco: //ou texto 
+int telefone: //ou inteiro telefone
+int salario: //ou inteiro salario
+int cpf: //ou inteiro cpf
+float preco: //ou real preco
+float temperatura: //ou real temperatura
+string casado: //ou texto
+int nascimento: //ou inteiro nascimento
+booleano vacinado: //ou booleano vacinado
+float preco_gasolina: //ou real preco_gasolina
+float litros_gasolina: //ou real litros_gasolina
+float preco_pao: //ou real preco_pao
+float total_compras: //ou real float total_compras
+int idade: //ou inteiro idade
+int data_contrato: //ou inteiro data_contrato
+string nivel_escolaridade: //ou texto
